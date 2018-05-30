@@ -1,0 +1,3 @@
+rootProject.name = 'VRN_woExpo'
+
+include ':app'
