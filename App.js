@@ -9,7 +9,7 @@ import { MyCreateComponent } from './mycreate';
 import { KeyboardAvoidingView } from 'react-native';
 import ActionButton from 'react-native-action-button';
 
-
+//comment added on 08-02-2019
 class HomeScreen extends React.Component{
   constructor(props) {
     super(props);
